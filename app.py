@@ -2,4 +2,4 @@
 
 name = input("Enter your name: Madhu ")
 
-print("Hello,", name)
+print("Hello all,", name)
